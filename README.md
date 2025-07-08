@@ -22,4 +22,4 @@ An interactive web app to visualize and understand various sorting algorithms in
 
 - **HTML**
 - **CSS**
-- **JavaScript** (or React, if applicable)
+- **JavaScript** 
