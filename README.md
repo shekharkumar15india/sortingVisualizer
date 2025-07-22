@@ -16,5 +16,5 @@ Heap Sort
 
 🧰 Tech Stack-
 # HTML
-#CSS
-#JavaScript
+# CSS
+# JavaScript
