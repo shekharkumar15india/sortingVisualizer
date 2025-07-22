@@ -14,7 +14,7 @@ Merge Sort
 Quick Sort
 Heap Sort
 
-🧰 Tech Stack
-HTML
-CSS
-JavaScript
+🧰 Tech Stack-
+# HTML
+#CSS
+#JavaScript
